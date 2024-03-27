@@ -1,5 +1,9 @@
+# 转点
 172.19.28.9 tp01
+172.19.28.11 tp02
 192.168.192.199 tp03
+192.168.192.185 tp00 expert-dev.turning-point.cc
+
 
 139.196.138.123  hdy.dev
 
@@ -11,6 +15,3 @@
 127.0.0.1 www.sparklabs.com
 
 # MacWk.com Hosts End
-
-10.0.10.190 zhsd.zyjinke.cn
-10.0.10.190 zhsd-sts.zyjinke.cn
