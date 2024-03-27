@@ -2,8 +2,9 @@
 172.19.28.9 tp01
 172.19.28.11 tp02
 192.168.192.199 tp03
-192.168.192.185 tp00 expert-dev.turning-point.cc
-
+192.168.192.185 tp00 expert-dev.turning-point.cc sts-dev.turning-point.cc file.turning-point.cc cerberus-dev.turning-point.cc api-dev.turning-point.cc seq.turning-point.cc
+192.168.192.185 insight-sts-dev.turning-point.cc insight-dev.turning-point.cc zipkin.turning-point.cc grafana.turning-point.cc n8n.turning-point.cc discussion-dev.turning-point.cc
+192.168.192.185 socodb.turning-point.cc office.turning-point.cc
 
 139.196.138.123  hdy.dev
 
